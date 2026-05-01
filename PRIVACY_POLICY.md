@@ -2,7 +2,7 @@
 
 **Effective Date:** April 10, 2026
 
-Pruthiviraj built the **Wallpaper** app as a Free app. This SERVICE is provided by Pruthiviraj at no cost and is intended for use as is.
+BPM DEV STUDIO built the **Wallpaper** app as a Free app. This SERVICE is provided by BPM DEV STUDIO at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -12,7 +12,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ## Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by BPM DEV STUDIO in any way.
 
 The app does use third-party services that may collect information used to identify you.
 
@@ -48,11 +48,11 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 ## Links to Other Sites
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by BPM DEV STUDIO. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact BPM DEV STUDIO so that I will be able to do the necessary actions.
 
 ## Changes to This Privacy Policy
 
@@ -62,4 +62,4 @@ This policy is effective as of 2026-04-10
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at pruthivirajm1997@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at bpmdevstudio@gmail.com.
