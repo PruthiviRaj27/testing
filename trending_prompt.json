@@ -58,5 +58,545 @@
     "thumbnail": "https://picsum.photos/seed/p10/400/600",
     "image_url": "https://picsum.photos/seed/p10/1080/1920",
     "prompt_text": "Undersea kingdom with bioluminescent coral and sea creatures, ethereal atmosphere."
+  },
+  {
+    "id": "11",
+    "thumbnail": "https://picsum.photos/seed/p11/400/600",
+    "image_url": "https://picsum.photos/seed/p11/1080/1920",
+    "prompt_text": "A majestic phoenix rising from ashes, vibrant oranges and reds, cinematic lighting."
+  },
+  {
+    "id": "12",
+    "thumbnail": "https://picsum.photos/seed/p12/400/600",
+    "image_url": "https://picsum.photos/seed/p12/1080/1920",
+    "prompt_text": "A cozy library with a fireplace and large windows looking out at a snowy forest."
+  },
+  {
+    "id": "13",
+    "thumbnail": "https://picsum.photos/seed/p13/400/600",
+    "image_url": "https://picsum.photos/seed/p13/1080/1920",
+    "prompt_text": "A floating island with waterfalls and exotic birds, dreamlike atmosphere."
+  },
+  {
+    "id": "14",
+    "thumbnail": "https://picsum.photos/seed/p14/400/600",
+    "image_url": "https://picsum.photos/seed/p14/1080/1920",
+    "prompt_text": "A dragon guarding a treasure hoard in a dark cave, epic fantasy style."
+  },
+  {
+    "id": "15",
+    "thumbnail": "https://picsum.photos/seed/p15/400/600",
+    "image_url": "https://picsum.photos/seed/p15/1080/1920",
+    "prompt_text": "A futuristic cyberpunk car driving through a neon-lit city at night."
+  },
+  {
+    "id": "16",
+    "thumbnail": "https://picsum.photos/seed/p16/400/600",
+    "image_url": "https://picsum.photos/seed/p16/1080/1920",
+    "prompt_text": "A serene zen garden with a small bridge and koi pond, peaceful vibe."
+  },
+  {
+    "id": "17",
+    "thumbnail": "https://picsum.photos/seed/p17/400/600",
+    "image_url": "https://picsum.photos/seed/p17/1080/1920",
+    "prompt_text": "A magical portal in the middle of a desert, glowing blue energy."
+  },
+  {
+    "id": "18",
+    "thumbnail": "https://picsum.photos/seed/p18/400/600",
+    "image_url": "https://picsum.photos/seed/p18/1080/1920",
+    "prompt_text": "A portrait of a mysterious traveler with a hooded cloak and glowing eyes."
+  },
+  {
+    "id": "19",
+    "thumbnail": "https://picsum.photos/seed/p19/400/600",
+    "image_url": "https://picsum.photos/seed/p19/1080/1920",
+    "prompt_text": "An enchanted forest with talking animals and glowing flowers."
+  },
+  {
+    "id": "20",
+    "thumbnail": "https://picsum.photos/seed/p20/400/600",
+    "image_url": "https://picsum.photos/seed/p20/1080/1920",
+    "prompt_text": "A steampunk clockwork owl with intricate brass gears and amber eyes."
+  },
+  {
+    "id": "21",
+    "thumbnail": "https://picsum.photos/seed/p21/400/600",
+    "image_url": "https://picsum.photos/seed/p21/1080/1920",
+    "prompt_text": "A futuristic underwater city with transparent domes and bioluminescent sea life."
+  },
+  {
+    "id": "22",
+    "thumbnail": "https://picsum.photos/seed/p22/400/600",
+    "image_url": "https://picsum.photos/seed/p22/1080/1920",
+    "prompt_text": "A vast cosmic nebula with swirling colors and distant stars."
+  },
+  {
+    "id": "23",
+    "thumbnail": "https://picsum.photos/seed/p23/400/600",
+    "image_url": "https://picsum.photos/seed/p23/1080/1920",
+    "prompt_text": "A medieval castle on a high cliff overlooking a stormy sea."
+  },
+  {
+    "id": "24",
+    "thumbnail": "https://picsum.photos/seed/p24/400/600",
+    "image_url": "https://picsum.photos/seed/p24/1080/1920",
+    "prompt_text": "A giant robot in a field of sunflowers, contrasting nature and technology."
+  },
+  {
+    "id": "25",
+    "thumbnail": "https://picsum.photos/seed/p25/400/600",
+    "image_url": "https://picsum.photos/seed/p25/1080/1920",
+    "prompt_text": "A magical tree with crystalline leaves that glow in the dark."
+  },
+  {
+    "id": "26",
+    "thumbnail": "https://picsum.photos/seed/p26/400/600",
+    "image_url": "https://picsum.photos/seed/p26/1080/1920",
+    "prompt_text": "A bustling market in a desert oasis with colorful stalls and exotic spices."
+  },
+  {
+    "id": "27",
+    "thumbnail": "https://picsum.photos/seed/p27/400/600",
+    "image_url": "https://picsum.photos/seed/p27/1080/1920",
+    "prompt_text": "A Viking ship sailing through a thick fog towards a mysterious island."
+  },
+  {
+    "id": "28",
+    "thumbnail": "https://picsum.photos/seed/p28/400/600",
+    "image_url": "https://picsum.photos/seed/p28/1080/1920",
+    "prompt_text": "A futuristic laboratory with holographic displays and advanced technology."
+  },
+  {
+    "id": "29",
+    "thumbnail": "https://picsum.photos/seed/p29/400/600",
+    "image_url": "https://picsum.photos/seed/p29/1080/1920",
+    "prompt_text": "A group of adventurers resting around a campfire in a deep forest."
+  },
+  {
+    "id": "30",
+    "thumbnail": "https://picsum.photos/seed/p30/400/600",
+    "image_url": "https://picsum.photos/seed/p30/1080/1920",
+    "prompt_text": "A majestic waterfall cascading down a lush tropical mountain."
+  },
+  {
+    "id": "31",
+    "thumbnail": "https://picsum.photos/seed/p31/400/600",
+    "image_url": "https://picsum.photos/seed/p31/1080/1920",
+    "prompt_text": "A portrait of a noble knight in shimmering armor, heroic pose."
+  },
+  {
+    "id": "32",
+    "thumbnail": "https://picsum.photos/seed/p32/400/600",
+    "image_url": "https://picsum.photos/seed/p32/1080/1920",
+    "prompt_text": "A dark Gothic cathedral with stained glass windows and gargoyles."
+  },
+  {
+    "id": "33",
+    "thumbnail": "https://picsum.photos/seed/p33/400/600",
+    "image_url": "https://picsum.photos/seed/p33/1080/1920",
+    "prompt_text": "A surreal landscape with floating geometric shapes and vibrant colors."
+  },
+  {
+    "id": "34",
+    "thumbnail": "https://picsum.photos/seed/p34/400/600",
+    "image_url": "https://picsum.photos/seed/p34/1080/1920",
+    "prompt_text": "A peaceful village in a valley with rolling green hills and a clear blue sky."
+  },
+  {
+    "id": "35",
+    "thumbnail": "https://picsum.photos/seed/p35/400/600",
+    "image_url": "https://picsum.photos/seed/p35/1080/1920",
+    "prompt_text": "A futuristic space station orbiting a ringed planet."
+  },
+  {
+    "id": "36",
+    "thumbnail": "https://picsum.photos/seed/p36/400/600",
+    "image_url": "https://picsum.photos/seed/p36/1080/1920",
+    "prompt_text": "A magical library where books fly around and shelves go on forever."
+  },
+  {
+    "id": "37",
+    "thumbnail": "https://picsum.photos/seed/p37/400/600",
+    "image_url": "https://picsum.photos/seed/p37/1080/1920",
+    "prompt_text": "A powerful sorceress casting a spell with swirling magical energy."
+  },
+  {
+    "id": "38",
+    "thumbnail": "https://picsum.photos/seed/p38/400/600",
+    "image_url": "https://picsum.photos/seed/p38/1080/1920",
+    "prompt_text": "A cozy cottage in a clearing with a vegetable garden and a picket fence."
+  },
+  {
+    "id": "39",
+    "thumbnail": "https://picsum.photos/seed/p39/400/600",
+    "image_url": "https://picsum.photos/seed/p39/1080/1920",
+    "prompt_text": "A steampunk locomotive traveling across a vast bridge in the mountains."
+  },
+  {
+    "id": "40",
+    "thumbnail": "https://picsum.photos/seed/p40/400/600",
+    "image_url": "https://picsum.photos/seed/p40/1080/1920",
+    "prompt_text": "A futuristic cyborg with integrated technology and a thoughtful expression."
+  },
+  {
+    "id": "41",
+    "thumbnail": "https://picsum.photos/seed/p41/400/600",
+    "image_url": "https://picsum.photos/seed/p41/1080/1920",
+    "prompt_text": "A serene beach at sunset with turquoise water and palm trees."
+  },
+  {
+    "id": "42",
+    "thumbnail": "https://picsum.photos/seed/p42/400/600",
+    "image_url": "https://picsum.photos/seed/p42/1080/1920",
+    "prompt_text": "A mysterious ruined temple in a dense jungle, overgrown with vines."
+  },
+  {
+    "id": "43",
+    "thumbnail": "https://picsum.photos/seed/p43/400/600",
+    "image_url": "https://picsum.photos/seed/p43/1080/1920",
+    "prompt_text": "A vast desert with giant sand dunes and a caravan of camels."
+  },
+  {
+    "id": "44",
+    "thumbnail": "https://picsum.photos/seed/p44/400/600",
+    "image_url": "https://picsum.photos/seed/p44/1080/1920",
+    "prompt_text": "A futuristic city with flying vehicles and sleek skyscrapers."
+  },
+  {
+    "id": "45",
+    "thumbnail": "https://picsum.photos/seed/p45/400/600",
+    "image_url": "https://picsum.photos/seed/p45/1080/1920",
+    "prompt_text": "A magical forest where the trees are made of glass and crystal."
+  },
+  {
+    "id": "46",
+    "thumbnail": "https://picsum.photos/seed/p46/400/600",
+    "image_url": "https://picsum.photos/seed/p46/1080/1920",
+    "prompt_text": "A portrait of a wise old wizard with a long white beard and a staff."
+  },
+  {
+    "id": "47",
+    "thumbnail": "https://picsum.photos/seed/p47/400/600",
+    "image_url": "https://picsum.photos/seed/p47/1080/1920",
+    "prompt_text": "A cozy attic room with old books, a telescope, and a view of the stars."
+  },
+  {
+    "id": "48",
+    "thumbnail": "https://picsum.photos/seed/p48/400/600",
+    "image_url": "https://picsum.photos/seed/p48/1080/1920",
+    "prompt_text": "A steampunk flying machine with propellers and brass fittings."
+  },
+  {
+    "id": "49",
+    "thumbnail": "https://picsum.photos/seed/p49/400/600",
+    "image_url": "https://picsum.photos/seed/p49/1080/1920",
+    "prompt_text": "A futuristic soldier in tactical armor, ready for battle."
+  },
+  {
+    "id": "50",
+    "thumbnail": "https://picsum.photos/seed/p50/400/600",
+    "image_url": "https://picsum.photos/seed/p50/1080/1920",
+    "prompt_text": "A serene mountain lake with reflections of snow-capped peaks."
+  },
+  {
+    "id": "51",
+    "thumbnail": "https://picsum.photos/seed/p51/400/600",
+    "image_url": "https://picsum.photos/seed/p51/1080/1920",
+    "prompt_text": "A magical garden with giant flowers and fluttering fairies."
+  },
+  {
+    "id": "52",
+    "thumbnail": "https://picsum.photos/seed/p52/400/600",
+    "image_url": "https://picsum.photos/seed/p52/1080/1920",
+    "prompt_text": "A mysterious cave with glowing crystals and underground rivers."
+  },
+  {
+    "id": "53",
+    "thumbnail": "https://picsum.photos/seed/p53/400/600",
+    "image_url": "https://picsum.photos/seed/p53/1080/1920",
+    "prompt_text": "A vast field of lavender with a small farmhouse in the distance."
+  },
+  {
+    "id": "54",
+    "thumbnail": "https://picsum.photos/seed/p54/400/600",
+    "image_url": "https://picsum.photos/seed/p54/1080/1920",
+    "prompt_text": "A futuristic medical bay with advanced healing technology."
+  },
+  {
+    "id": "55",
+    "thumbnail": "https://picsum.photos/seed/p55/400/600",
+    "image_url": "https://picsum.photos/seed/p55/1080/1920",
+    "prompt_text": "A group of explorers discovering an ancient tomb."
+  },
+  {
+    "id": "56",
+    "thumbnail": "https://picsum.photos/seed/p56/400/600",
+    "image_url": "https://picsum.photos/seed/p56/1080/1920",
+    "prompt_text": "A majestic eagle soaring above a canyon with dramatic lighting."
+  },
+  {
+    "id": "57",
+    "thumbnail": "https://picsum.photos/seed/p57/400/600",
+    "image_url": "https://picsum.photos/seed/p57/1080/1920",
+    "prompt_text": "A dark and moody forest with twisted trees and a sense of mystery."
+  },
+  {
+    "id": "58",
+    "thumbnail": "https://picsum.photos/seed/p58/400/600",
+    "image_url": "https://picsum.photos/seed/p58/1080/1920",
+    "prompt_text": "A surreal dreamscape with melting objects and distorted perspective."
+  },
+  {
+    "id": "59",
+    "thumbnail": "https://picsum.photos/seed/p59/400/600",
+    "image_url": "https://picsum.photos/seed/p59/1080/1920",
+    "prompt_text": "A peaceful meadow with wild flowers and a gentle breeze."
+  },
+  {
+    "id": "60",
+    "thumbnail": "https://picsum.photos/seed/p60/400/600",
+    "image_url": "https://picsum.photos/seed/p60/1080/1920",
+    "prompt_text": "A futuristic control room with multiple screens and data displays."
+  },
+  {
+    "id": "61",
+    "thumbnail": "https://picsum.photos/seed/p61/400/600",
+    "image_url": "https://picsum.photos/seed/p61/1080/1920",
+    "prompt_text": "A magical potion bottle with swirling colorful liquid and sparkles."
+  },
+  {
+    "id": "62",
+    "thumbnail": "https://picsum.photos/seed/p62/400/600",
+    "image_url": "https://picsum.photos/seed/p62/1080/1920",
+    "prompt_text": "A mysterious island with a volcano and strange rock formations."
+  },
+  {
+    "id": "63",
+    "thumbnail": "https://picsum.photos/seed/p63/400/600",
+    "image_url": "https://picsum.photos/seed/p63/1080/1920",
+    "prompt_text": "A vast plains with a herd of wild horses running free."
+  },
+  {
+    "id": "64",
+    "thumbnail": "https://picsum.photos/seed/p64/400/600",
+    "image_url": "https://picsum.photos/seed/p64/1080/1920",
+    "prompt_text": "A futuristic apartment with minimalist design and smart features."
+  },
+  {
+    "id": "65",
+    "thumbnail": "https://picsum.photos/seed/p65/400/600",
+    "image_url": "https://picsum.photos/seed/p65/1080/1920",
+    "prompt_text": "A portrait of a graceful dancer in a flowing dress."
+  },
+  {
+    "id": "66",
+    "thumbnail": "https://picsum.photos/seed/p66/400/600",
+    "image_url": "https://picsum.photos/seed/p66/1080/1920",
+    "prompt_text": "A dark and eerie graveyard at night with a full moon."
+  },
+  {
+    "id": "67",
+    "thumbnail": "https://picsum.photos/seed/p67/400/600",
+    "image_url": "https://picsum.photos/seed/p67/1080/1920",
+    "prompt_text": "A surreal underwater scene with floating bubbles and strange fish."
+  },
+  {
+    "id": "68",
+    "thumbnail": "https://picsum.photos/seed/p68/400/600",
+    "image_url": "https://picsum.photos/seed/p68/1080/1920",
+    "prompt_text": "A peaceful countryside with a winding road and old stone walls."
+  },
+  {
+    "id": "69",
+    "thumbnail": "https://picsum.photos/seed/p69/400/600",
+    "image_url": "https://picsum.photos/seed/p69/1080/1920",
+    "prompt_text": "A futuristic manufacturing plant with robotic arms and assembly lines."
+  },
+  {
+    "id": "70",
+    "thumbnail": "https://picsum.photos/seed/p70/400/600",
+    "image_url": "https://picsum.photos/seed/p70/1080/1920",
+    "prompt_text": "A magical wand with a glowing tip and intricate carvings."
+  },
+  {
+    "id": "71",
+    "thumbnail": "https://picsum.photos/seed/p71/400/600",
+    "image_url": "https://picsum.photos/seed/p71/1080/1920",
+    "prompt_text": "A mysterious portal leading to another dimension."
+  },
+  {
+    "id": "72",
+    "thumbnail": "https://picsum.photos/seed/p72/400/600",
+    "image_url": "https://picsum.photos/seed/p72/1080/1920",
+    "prompt_text": "A vast iceberg in a frozen sea with a clear blue sky."
+  },
+  {
+    "id": "73",
+    "thumbnail": "https://picsum.photos/seed/p73/400/600",
+    "image_url": "https://picsum.photos/seed/p73/1080/1920",
+    "prompt_text": "A futuristic greenhouse with exotic plants and automated systems."
+  },
+  {
+    "id": "74",
+    "thumbnail": "https://picsum.photos/seed/p74/400/600",
+    "image_url": "https://picsum.photos/seed/p74/1080/1920",
+    "prompt_text": "A group of people celebrating at a colorful festival."
+  },
+  {
+    "id": "75",
+    "thumbnail": "https://picsum.photos/seed/p75/400/600",
+    "image_url": "https://picsum.photos/seed/p75/1080/1920",
+    "prompt_text": "A majestic elk in a forest clearing with morning mist."
+  },
+  {
+    "id": "76",
+    "thumbnail": "https://picsum.photos/seed/p76/400/600",
+    "image_url": "https://picsum.photos/seed/p76/1080/1920",
+    "prompt_text": "A dark and stormy sky with dramatic lightning bolts."
+  },
+  {
+    "id": "77",
+    "thumbnail": "https://picsum.photos/seed/p77/400/600",
+    "image_url": "https://picsum.photos/seed/p77/1080/1920",
+    "prompt_text": "A surreal architecture with impossible geometry and vibrant colors."
+  },
+  {
+    "id": "78",
+    "thumbnail": "https://picsum.photos/seed/p78/400/600",
+    "image_url": "https://picsum.photos/seed/p78/1080/1920",
+    "prompt_text": "A peaceful lake with a small wooden pier and a rowboat."
+  },
+  {
+    "id": "79",
+    "thumbnail": "https://picsum.photos/seed/p79/400/600",
+    "image_url": "https://picsum.photos/seed/p79/1080/1920",
+    "prompt_text": "A futuristic communication array on a remote hilltop."
+  },
+  {
+    "id": "80",
+    "thumbnail": "https://picsum.photos/seed/p80/400/600",
+    "image_url": "https://picsum.photos/seed/p80/1080/1920",
+    "prompt_text": "A magical creature that is a mix of a fox and a bird."
+  },
+  {
+    "id": "81",
+    "thumbnail": "https://picsum.photos/seed/p81/400/600",
+    "image_url": "https://picsum.photos/seed/p81/1080/1920",
+    "prompt_text": "A mysterious map with hidden symbols and ancient markings."
+  },
+  {
+    "id": "82",
+    "thumbnail": "https://picsum.photos/seed/p82/400/600",
+    "image_url": "https://picsum.photos/seed/p82/1080/1920",
+    "prompt_text": "A vast galaxy with billions of stars and colorful gas clouds."
+  },
+  {
+    "id": "83",
+    "thumbnail": "https://picsum.photos/seed/p83/400/600",
+    "image_url": "https://picsum.photos/seed/p83/1080/1920",
+    "prompt_text": "A futuristic gym with advanced exercise equipment."
+  },
+  {
+    "id": "84",
+    "thumbnail": "https://picsum.photos/seed/p84/400/600",
+    "image_url": "https://picsum.photos/seed/p84/1080/1920",
+    "prompt_text": "A group of friends having a picnic in a park."
+  },
+  {
+    "id": "85",
+    "thumbnail": "https://picsum.photos/seed/p85/400/600",
+    "image_url": "https://picsum.photos/seed/p85/1080/1920",
+    "prompt_text": "A majestic swan on a still pond with willow trees."
+  },
+  {
+    "id": "86",
+    "thumbnail": "https://picsum.photos/seed/p86/400/600",
+    "image_url": "https://picsum.photos/seed/p86/1080/1920",
+    "prompt_text": "A dark and narrow alleyway in a city at night."
+  },
+  {
+    "id": "87",
+    "thumbnail": "https://picsum.photos/seed/p87/400/600",
+    "image_url": "https://picsum.photos/seed/p87/1080/1920",
+    "prompt_text": "A surreal portrait of a person with flowers growing out of their head."
+  },
+  {
+    "id": "88",
+    "thumbnail": "https://picsum.photos/seed/p88/400/600",
+    "image_url": "https://picsum.photos/seed/p88/1080/1920",
+    "prompt_text": "A peaceful forest path with sunlight filtering through the trees."
+  },
+  {
+    "id": "89",
+    "thumbnail": "https://picsum.photos/seed/p89/400/600",
+    "image_url": "https://picsum.photos/seed/p89/1080/1920",
+    "prompt_text": "A futuristic transportation hub with sleek pods and fast tracks."
+  },
+  {
+    "id": "90",
+    "thumbnail": "https://picsum.photos/seed/p90/400/600",
+    "image_url": "https://picsum.photos/seed/p90/1080/1920",
+    "prompt_text": "A magical chest with golden light coming from inside."
+  },
+  {
+    "id": "91",
+    "thumbnail": "https://picsum.photos/seed/p91/400/600",
+    "image_url": "https://picsum.photos/seed/p91/1080/1920",
+    "prompt_text": "A mysterious hooded figure standing in the shadows."
+  },
+  {
+    "id": "92",
+    "thumbnail": "https://picsum.photos/seed/p92/400/600",
+    "image_url": "https://picsum.photos/seed/p92/1080/1920",
+    "prompt_text": "A vast tundra with low-lying shrubs and distant mountains."
+  },
+  {
+    "id": "93",
+    "thumbnail": "https://picsum.photos/seed/p93/400/600",
+    "image_url": "https://picsum.photos/seed/p93/1080/1920",
+    "prompt_text": "A futuristic classroom with holographic teaching aids."
+  },
+  {
+    "id": "94",
+    "thumbnail": "https://picsum.photos/seed/p94/400/600",
+    "image_url": "https://picsum.photos/seed/p94/1080/1920",
+    "prompt_text": "A group of musicians playing instruments in a lively street."
+  },
+  {
+    "id": "95",
+    "thumbnail": "https://picsum.photos/seed/p95/400/600",
+    "image_url": "https://picsum.photos/seed/p95/1080/1920",
+    "prompt_text": "A majestic wolf howling at the moon in a snowy landscape."
+  },
+  {
+    "id": "96",
+    "thumbnail": "https://picsum.photos/seed/p96/400/600",
+    "image_url": "https://picsum.photos/seed/p96/1080/1920",
+    "prompt_text": "A dark and mysterious library with hidden passages."
+  },
+  {
+    "id": "97",
+    "thumbnail": "https://picsum.photos/seed/p97/400/600",
+    "image_url": "https://picsum.photos/seed/p97/1080/1920",
+    "prompt_text": "A surreal sky with multiple moons and strange clouds."
+  },
+  {
+    "id": "98",
+    "thumbnail": "https://picsum.photos/seed/p98/400/600",
+    "image_url": "https://picsum.photos/seed/p98/1080/1920",
+    "prompt_text": "A peaceful river winding through a lush green valley."
+  },
+  {
+    "id": "99",
+    "thumbnail": "https://picsum.photos/seed/p99/400/600",
+    "image_url": "https://picsum.photos/seed/p99/1080/1920",
+    "prompt_text": "A futuristic observation deck with a panoramic view of the earth."
+  },
+  {
+    "id": "100",
+    "thumbnail": "https://picsum.photos/seed/p100/400/600",
+    "image_url": "https://picsum.photos/seed/p100/1080/1920",
+    "prompt_text": "A magical mirror that shows a different reality."
   }
 ]
