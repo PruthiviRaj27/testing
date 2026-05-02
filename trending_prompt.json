@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "https://picsum.photos/seed/p1/400/600",
+    "image_url": "https://picsum.photos/seed/p1/1080/1920",
+    "prompt_text": "A serene landscape with mountains and a lake at sunset, digital art style."
+  },
+  {
+    "id": "2",
+    "thumbnail": "https://picsum.photos/seed/p2/400/600",
+    "image_url": "https://picsum.photos/seed/p2/1080/1920",
+    "prompt_text": "Cyberpunk city street with neon lights and rainy weather, highly detailed."
+  },
+  {
+    "id": "3",
+    "thumbnail": "https://picsum.photos/seed/p3/400/600",
+    "image_url": "https://picsum.photos/seed/p3/1080/1920",
+    "prompt_text": "Cute fluffy cat wearing a space suit, floating in zero gravity, 3D render."
+  },
+  {
+    "id": "4",
+    "thumbnail": "https://picsum.photos/seed/p4/400/600",
+    "image_url": "https://picsum.photos/seed/p4/1080/1920",
+    "prompt_text": "Ancient forest with glowing mushrooms and a mystical vibe, cinematic lighting."
+  },
+  {
+    "id": "5",
+    "thumbnail": "https://picsum.photos/seed/p5/400/600",
+    "image_url": "https://picsum.photos/seed/p5/1080/1920",
+    "prompt_text": "Abstract fluid art with vibrant colors, swirling patterns, 4K resolution."
+  },
+  {
+    "id": "6",
+    "thumbnail": "https://picsum.photos/seed/p6/400/600",
+    "image_url": "https://picsum.photos/seed/p6/1080/1920",
+    "prompt_text": "A futuristic robot gardener tending to a vertical forest, solarpunk aesthetic."
+  },
+  {
+    "id": "7",
+    "thumbnail": "https://picsum.photos/seed/p7/400/600",
+    "image_url": "https://picsum.photos/seed/p7/1080/1920",
+    "prompt_text": "Steampunk airship flying over a Victorian city, intricate details."
+  },
+  {
+    "id": "8",
+    "thumbnail": "https://picsum.photos/seed/p8/400/600",
+    "image_url": "https://picsum.photos/seed/p8/1080/1920",
+    "prompt_text": "Portrait of a majestic lion made of fire, fantasy art style."
+  },
+  {
+    "id": "9",
+    "thumbnail": "https://picsum.photos/seed/p9/400/600",
+    "image_url": "https://picsum.photos/seed/p9/1080/1920",
+    "prompt_text": "Minimalist geometric mountain range under a starry sky, flat design."
+  },
+  {
+    "id": "10",
+    "thumbnail": "https://picsum.photos/seed/p10/400/600",
+    "image_url": "https://picsum.photos/seed/p10/1080/1920",
+    "prompt_text": "Undersea kingdom with bioluminescent coral and sea creatures, ethereal atmosphere."
+  }
+]
